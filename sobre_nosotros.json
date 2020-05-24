@@ -1,0 +1,34 @@
+{
+    
+    "sobre_nosotros" : [
+        {
+            "id"     : 1,
+            "titulo" : "El inicio de un sueño \n",
+            "texto"  : "Los comienzos fueron duros, con largas jornadas de trabajo que no dejaban tiempo para vacaciones, pocas horas de descanso, falta de sueño y días buenos y otros no tan buenos. Pero con una ilusión intacta: ",
+            "pie"    : "¡Seguir luchando por nuestro sueño!",
+            "foto"   : "assets/sobre_nosotros/nosotros_id_1.PNG"
+        },
+        {
+            "id"     : 2,
+            "titulo" : "El esfuerzo de mantenerlo \n",
+            "texto"  : "El esfuerzo poco a poco se vio recompensado cuando el trabajo empezó a dar sus frutos. Era el momento de trabajar aún con más ahínco para cuidar y dar lo mejor de nosotros mismos a todos los que empezaban a confiar en nosotros, ya fuera para sus reuniones familiares o de amigos, celebraciones, comidas de empresa, etc. Un esfuerzo con el objetivo de ser uno de los mejores restaurantes de Madrid.",
+            "pie"    : "¡Empezamos a crecer gracias a todos ustedes!",
+            "foto"   : "assets/sobre_nosotros/nosotros_id_2.PNG"
+        },
+        {
+            "id"     : 3,
+            "titulo" : "El resultado de consultar y delegar \n",
+            "texto"  : "Pasaron los años y, como muchos ya saben, contamos con un hermoso restaurante de moda en Madrid que actualmente coordinan nuestros hijos Óscar y Chema. Ha sido fácil delegar en ellos porque desde siempre les hemos inculcado el amor y la pasión por el trabajo bien hecho.",
+            "pie"    : "¡Gracias por seguir cuidando de nuestro sueño!\nUn sueño que hoy también es el vuestro.",
+            "foto"   : "assets/sobre_nosotros/nosotros_id_3.PNG"
+        },
+        {
+            "id"     : 4,
+            "titulo" : "Un gran equipo de profesionales \n",
+            "texto"  : "Contamos con un gran equipo de profesionales. Desde nuestro chef y su equipo de cocineros, panaderos y pasteleros hasta nuestro gran equipo de camareros que se encargan de atender y ofrecer el mejor servicio a todos nuestros clientes. Sin olvidarnos de nuestros empleados de la limpieza y seguridad que se encargan de que todo esté a punto y al gusto de todos ustedes. Sin todos ellos sería imposible que pudiéramos ofrecer la calidad que todos los que nos eligen se merecen.",
+            "pie"    : "¡Gracias por el continuo esfuerzo que hacéis!",
+            "foto"   : "assets/sobre_nosotros/nosotros_id_4.PNG"
+        }
+        
+    ]
+}
